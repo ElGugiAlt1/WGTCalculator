@@ -1,8 +1,3 @@
-import streamlit as st
-import numpy as np
-from calculator import calculate_steps
-
-
 def main():
     # Page configuration
     st.set_page_config(page_title="WGT Golf Calculator",
